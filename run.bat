@@ -1,0 +1,3 @@
+@echo off
+echo Executando Stock Peixe...
+scripts\compilar_e_executar.bat

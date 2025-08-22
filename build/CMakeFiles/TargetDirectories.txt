@@ -1,0 +1,3 @@
+C:/Users/felip/Desktop/stockpeixe/Stock-Peixe/build/CMakeFiles/StockPeixe.dir
+C:/Users/felip/Desktop/stockpeixe/Stock-Peixe/build/CMakeFiles/edit_cache.dir
+C:/Users/felip/Desktop/stockpeixe/Stock-Peixe/build/CMakeFiles/rebuild_cache.dir
